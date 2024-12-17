@@ -18,7 +18,7 @@ My profile: https://www.codewars.com/users/binary.wizardry
 |---------|:----------:|:------:|
 | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) | 7 kyu | [Python](Python/7%20kyu/Two%20to%20One.py) |
 | [Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f) | 7 kyu | [Python](Python/7%20kyu/Friend%20or%20Foe?.py) |
-| [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053) | 7 kyu | [Python](Python/7%20kyu/Beginner%20Series%20#3%20Sum%20of%20Numbers.py) |
+| [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053) | 7 kyu | [Python](Python/7%20kyu/Beginner%20Series%20%233%20Sum%20of%20Numbers.py) |
 | [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014) | 7 kyu | [Python](Python/7%20kyu/Sum%20of%20two%20lowest%20positive%20integers.py) |
 | [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc) | 7 kyu | [Python](Python/7%20kyu/Credit%20Card%20Mask.py) |
 | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | 7 kyu | [Python](Python/7%20kyu/Isograms.py) |
