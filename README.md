@@ -10,12 +10,21 @@ After solving a task, compare your answer with other users and learn from them o
 
 ## Problems
 
-Problems solved count : **20**
+Problems solved count : **29**
 
 My profile: https://www.codewars.com/users/binary.wizardry
 
 | Problem | Difficulty | Solution |
 |---------|:----------:|:------:|
+| [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) | 7 kyu | [Python](Python/7%20kyu/Two%20to%20One.py) |
+| [Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f) | 7 kyu | [Python](Python/7%20kyu/Friend%20or%20Foe?.py) |
+| [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053) | 7 kyu | [Python](Python/7%20kyu/Beginner%20Series%20#3%20Sum%20of%20Numbers.py) |
+| [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014) | 7 kyu | [Python](Python/7%20kyu/Sum%20of%20two%20lowest%20positive%20integers.py) |
+| [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc) | 7 kyu | [Python](Python/7%20kyu/Credit%20Card%20Mask.py) |
+| [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | 7 kyu | [Python](Python/7%20kyu/Isograms.py) |
+| [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038) | 7 kyu | [Python](Python/7%20kyu/Complementary%20DNA.py) |
+| [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) | 7 kyu | [Python](Python/7%20kyu/Shortest%20Word.py) |
+| [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6) | 7 kyu | [Python](Python/7%20kyu/Jaden%20Casing%20Strings.py) |
 | [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a) | 7 kyu | [Python](Python/7%20kyu/Exes%20and%20Ohs.py) |
 | [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039) | 7 kyu | [Python](Python/7%20kyu/Mumbling.py) |
 | [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) | 7 kyu | [Python](Python/7%20kyu/You're%20a%20square!.py) |
