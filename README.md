@@ -10,12 +10,22 @@ After solving a task, compare your answer with other users and learn from them o
 
 ## Problems
 
-Problems solved count : **29**
+Problems solved count : **39**
 
 My profile: https://www.codewars.com/users/binary.wizardry
 
 | Problem | Difficulty | Solution |
 |---------|:----------:|:------:|
+| [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) | 6 kyu | [Python](Python/6%20kyu/Counting%20Duplicates.py) |
+| [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) | 6 kyu | [Python](Python/6%20kyu/Find%20The%20Parity%20Outlier.py) |
+| [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4) | 6 kyu | [Python](Python/6%20kyu/Bit%20Counting.py) |
+| [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | 6 kyu | [Python](Python/6%20kyu/Create%20Phone%20Number.py) |
+| [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) | 6 kyu | [Python](Python/6%20kyu/Sum%20of%20Digits%20Digital%20Root.py) |
+| [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) | 6 kyu | [Python](Python/6%20kyu/Array.diff.py) |
+| [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836) | 6 kyu | [Python](Python/6%20kyu/Find%20the%20odd%20int.py) |
+| [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | 6 kyu | [Python](Python/6%20kyu/Who%20likes%20it%3F.py) |
+| [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) | 6 kyu | [Python](Python/6%20kyu/Stop%20gninnipS%20My%20sdroW!.py) |
+| [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006) | 6 kyu | [Python](Python/6%20kyu/Multiples%20of%203%20or%205.py) |
 | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) | 7 kyu | [Python](Python/7%20kyu/Two%20to%20One.py) |
 | [Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f) | 7 kyu | [Python](Python/7%20kyu/Friend%20or%20Foe?.py) |
 | [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053) | 7 kyu | [Python](Python/7%20kyu/Beginner%20Series%20%233%20Sum%20of%20Numbers.py) |
