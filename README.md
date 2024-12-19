@@ -10,12 +10,22 @@ After solving a task, compare your answer with other users and learn from them o
 
 ## Problems
 
-Problems solved count : **39**
+Problems solved count : **49**
 
 My profile: https://www.codewars.com/users/binary.wizardry
 
 | Problem | Difficulty | Solution |
 |---------|:----------:|:------:|
+| [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667) | 6 kyu | [Python](Python/6%20kyu/Unique%20In%20Order.py) |
+| [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) | 6 kyu | [Python](Python/6%20kyu/Detect%20Pangram.py) |
+| [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) | 6 kyu | [Python](Python/6%20kyu/Tribonacci%20Sequence.py) |
+| [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) | 6 kyu | [Python](Python/6%20kyu/Your%20order,%20please.py) |
+| [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c) | 6 kyu | [Python](Python/6%20kyu/Does%20my%20number%20look%20big%20in%20this%3F.py) |
+| [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003) | 6 kyu | [Python](Python/6%20kyu/Convert%20string%20to%20camel%20case.py) |
+| [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec) | 6 kyu | [Python](Python/6%20kyu/Persistent%20Bugger.py) |
+| [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da) | 6 kyu | [Python](Python/6%20kyu/Replace%20With%20Alphabet%20Position.py) |
+| [Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228) | 6 kyu | [Python](Python/6%20kyu/Take%20a%20Ten%20Minutes%20Walk.py) |
+| [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) | 6 kyu | [Python](Python/6%20kyu/Duplicate%20Encoder.py) |
 | [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) | 6 kyu | [Python](Python/6%20kyu/Counting%20Duplicates.py) |
 | [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) | 6 kyu | [Python](Python/6%20kyu/Find%20The%20Parity%20Outlier.py) |
 | [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4) | 6 kyu | [Python](Python/6%20kyu/Bit%20Counting.py) |
@@ -27,7 +37,7 @@ My profile: https://www.codewars.com/users/binary.wizardry
 | [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) | 6 kyu | [Python](Python/6%20kyu/Stop%20gninnipS%20My%20sdroW!.py) |
 | [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006) | 6 kyu | [Python](Python/6%20kyu/Multiples%20of%203%20or%205.py) |
 | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) | 7 kyu | [Python](Python/7%20kyu/Two%20to%20One.py) |
-| [Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f) | 7 kyu | [Python](Python/7%20kyu/Friend%20or%20Foe?.py) |
+| [Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f) | 7 kyu | [Python](Python/7%20kyu/Friend%20or%20Foe%3F.py) |
 | [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053) | 7 kyu | [Python](Python/7%20kyu/Beginner%20Series%20%233%20Sum%20of%20Numbers.py) |
 | [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014) | 7 kyu | [Python](Python/7%20kyu/Sum%20of%20two%20lowest%20positive%20integers.py) |
 | [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc) | 7 kyu | [Python](Python/7%20kyu/Credit%20Card%20Mask.py) |
