@@ -10,12 +10,22 @@ After solving a task, compare your answer with other users and learn from them o
 
 ## Problems
 
-Problems solved count : **49**
+Problems solved count : **59**
 
 My profile: https://www.codewars.com/users/binary.wizardry
 
 | Problem | Difficulty | Solution |
 |---------|:----------:|:------:|
+| [Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059) | 5 kyu | [Python](Python/5%20kyu/Pete,%20the%20baker.py) |
+| [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c) | 5 kyu | [Python](Python/5%20kyu/Maximum%20subarray%20sum.py) |
+| [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024) | 5 kyu | [Python](Python/5%20kyu/The%20Hashtag%20Generator.py) |
+| [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) | 5 kyu | [Python](Python/5%20kyu/Rot13.py) |
+| [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39) | 5 kyu | [Python](Python/5%20kyu/Calculating%20with%20Functions.py) |
+| [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a) | 5 kyu | [Python](Python/5%20kyu/Directions%20Reduction.py) |
+| [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001) | 5 kyu | [Python](Python/5%20kyu/RGB%20To%20Hex%20Conversion.py) |
+| [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7) | 5 kyu | [Python](Python/5%20kyu/Human%20Readable%20Time.py) |
+| [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f) | 5 kyu | [Python](Python/5%20kyu/Simple%20Pig%20Latin.py) |
+| [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | 5 kyu | [Python](Python/5%20kyu/Moving%20Zeros%20To%20The%20End.py) |
 | [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667) | 6 kyu | [Python](Python/6%20kyu/Unique%20In%20Order.py) |
 | [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) | 6 kyu | [Python](Python/6%20kyu/Detect%20Pangram.py) |
 | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) | 6 kyu | [Python](Python/6%20kyu/Tribonacci%20Sequence.py) |
