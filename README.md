@@ -10,12 +10,22 @@ After solving a task, compare your answer with other users and learn from them o
 
 ## Problems
 
-Problems solved count : **59**
+Problems solved count : **69**
 
 My profile: https://www.codewars.com/users/binary.wizardry
 
 | Problem | Difficulty | Solution |
 |---------|:----------:|:------:|
+| [Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e) | 5 kyu | [Python](Python/5%20kyu/Primes%20in%20numbers.py) |
+| [Perimeter of squares in a rectangle](https://www.codewars.com/kata/559a28007caad2ac4e000083) | 5 kyu | [Python](Python/5%20kyu/Perimeter%20of%20squares%20in%20a%20rectangle.py) |
+| [Number of trailing zeros of N!](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34) | 5 kyu | [Python](Python/5%20kyu/Number%20of%20trailing%20zeros%20of%20N!.py) |
+| [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4) | 5 kyu | [Python](Python/5%20kyu/Greed%20is%20Good.py) |
+| [Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048) | 5 kyu | [Python](Python/5%20kyu/Scramblies.py) |
+| [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c) | 5 kyu | [Python](Python/5%20kyu/String%20incrementer.py) |
+| [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc) | 5 kyu | [Python](Python/5%20kyu/Weight%20for%20weight.py) |
+| [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) | 5 kyu | [Python](Python/5%20kyu/Extract%20the%20domain%20name%20from%20a%20URL.py) |
+| [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e) | 5 kyu | [Python](Python/5%20kyu/First%20non-repeating%20character.py) |
+| [Product of consecutive Fib numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) | 5 kyu | [Python](Python/5%20kyu/Product%20of%20consecutive%20Fib%20numbers.py) |
 | [Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059) | 5 kyu | [Python](Python/5%20kyu/Pete,%20the%20baker.py) |
 | [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c) | 5 kyu | [Python](Python/5%20kyu/Maximum%20subarray%20sum.py) |
 | [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024) | 5 kyu | [Python](Python/5%20kyu/The%20Hashtag%20Generator.py) |
