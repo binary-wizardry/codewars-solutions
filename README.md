@@ -10,12 +10,22 @@ After solving a task, compare your answer with other users and learn from them o
 
 ## Problems
 
-Problems solved count : **69**
+Problems solved count : **79**
 
 My profile: https://www.codewars.com/users/binary.wizardry
 
 | Problem | Difficulty | Solution |
 |---------|:----------:|:------:|
+| [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014) | 4 kyu | [Python](Python/4%20kyu/Strings%20Mix.py) |
+| [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370) | 4 kyu | [Python](Python/4%20kyu/Sum%20Strings%20as%20Numbers.py) |
+| [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd) | 4 kyu | [Python](Python/4%20kyu/Sum%20of%20Intervals.py) |
+| [So Many Permutations!](https://www.codewars.com/kata/5254ca2719453dcc0b00027d) | 4 kyu | [Python](Python/4%20kyu/So%20Many%20Permutations!.py) |
+| [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd) | 4 kyu | [Python](Python/4%20kyu/Strip%20Comments.py) |
+| [The observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d) | 4 kyu | [Python](Python/4%20kyu/The%20observed%20PIN.py) |
+| [Next bigger number with the same digits](https://www.codewars.com/kata/55983863da40caa2c900004e) | 4 kyu | [Python](Python/4%20kyu/Next%20bigger%20number%20with%20the%20same%20digits.py) |
+| [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f) | 4 kyu | [Python](Python/4%20kyu/Range%20Extraction.py) |
+| [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a) | 4 kyu | [Python](Python/4%20kyu/Human%20readable%20duration%20format.py) |
+| [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | 4 kyu | [Python](Python/4%20kyu/Snail.py) |
 | [Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e) | 5 kyu | [Python](Python/5%20kyu/Primes%20in%20numbers.py) |
 | [Perimeter of squares in a rectangle](https://www.codewars.com/kata/559a28007caad2ac4e000083) | 5 kyu | [Python](Python/5%20kyu/Perimeter%20of%20squares%20in%20a%20rectangle.py) |
 | [Number of trailing zeros of N!](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34) | 5 kyu | [Python](Python/5%20kyu/Number%20of%20trailing%20zeros%20of%20N!.py) |
