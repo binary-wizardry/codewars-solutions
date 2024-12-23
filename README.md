@@ -10,12 +10,22 @@ After solving a task, compare your answer with other users and learn from them o
 
 ## Problems
 
-Problems solved count : **79**
+Problems solved count : **89**
 
 My profile: https://www.codewars.com/users/binary.wizardry
 
 | Problem | Difficulty | Solution |
 |---------|:----------:|:------:|
+| [parseInt() reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5) | 4 kyu | [Python](Python/4%20kyu/parseInt()%20reloaded.py) |
+| [Nesting Structure Comparison](https://www.codewars.com/kata/520446778469526ec0000001) | 4 kyu | [Python](Python/4%20kyu/Nesting%20Structure%20Comparison.py) |
+| [Sum by Factors](https://www.codewars.com/kata/54d496788776e49e6b00052f) | 4 kyu | [Python](Python/4%20kyu/Sum%20by%20Factors.py) |
+| [Most frequently used words in a text](https://www.codewars.com/kata/51e056fe544cf36c410000fb) | 4 kyu | [Python](Python/4%20kyu/Most%20frequently%20used%20words%20in%20a%20text.py) |
+| [Pyramid Slide Down](https://www.codewars.com/kata/551f23362ff852e2ab000037) | 4 kyu | [Python](Python/4%20kyu/Pyramid%20Slide%20Down.py) |
+| [Recover a secret string from random triplets](https://www.codewars.com/kata/53f40dff5f9d31b813000774) | 4 kyu | [Python](Python/4%20kyu/Recover%20a%20secret%20string%20from%20random%20triplets.py) |
+| [Matrix Determinant](https://www.codewars.com/kata/52a382ee44408cea2500074c) | 4 kyu | [Python](Python/4%20kyu/Matrix%20Determinant.py) |
+| [Decode the Morse code, advanced](https://www.codewars.com/kata/54b72c16cd7f5154e9000457) | 4 kyu | [Python](Python/4%20kyu/Decode%20the%20Morse%20code,%20advanced.py) |
+| [Twice linear](https://www.codewars.com/kata/5672682212c8ecf83e000050) | 4 kyu | [Python](Python/4%20kyu/Twice%20linear.py) |
+| [Roman Numerals Helper](https://www.codewars.com/kata/51b66044bce5799a7f000003) | 4 kyu | [Python](Python/4%20kyu/Roman%20Numerals%20Helper.py) |
 | [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014) | 4 kyu | [Python](Python/4%20kyu/Strings%20Mix.py) |
 | [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370) | 4 kyu | [Python](Python/4%20kyu/Sum%20Strings%20as%20Numbers.py) |
 | [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd) | 4 kyu | [Python](Python/4%20kyu/Sum%20of%20Intervals.py) |
