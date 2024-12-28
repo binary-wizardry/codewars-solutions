@@ -10,12 +10,16 @@ After solving a task, compare your answer with other users and learn from them o
 
 ## Problems
 
-Problems solved count : **89**
+Problems solved count : **93**
 
 My profile: https://www.codewars.com/users/binary.wizardry
 
 | Problem | Difficulty | Solution |
 |---------|:----------:|:------:|
+| [The Millionth Fibonacci Kata](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26) | 3 kyu | [Python](Python/3%20kyu/The%20Millionth%20Fibonacci%20Kata.py) |
+| [Make a spiral](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6) | 3 kyu | [Python](Python/3%20kyu/Make%20a%20spiral.py) |
+| [Sudoku Solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7) | 3 kyu | [Python](Python/3%20kyu/Sudoku%20Solver.py) |
+| [Battleship field validator](https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7) | 3 kyu | [Python](Python/3%20kyu/Battleship%20field%20validator.py) |
 | [parseInt() reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5) | 4 kyu | [Python](Python/4%20kyu/parseInt()%20reloaded.py) |
 | [Nesting Structure Comparison](https://www.codewars.com/kata/520446778469526ec0000001) | 4 kyu | [Python](Python/4%20kyu/Nesting%20Structure%20Comparison.py) |
 | [Sum by Factors](https://www.codewars.com/kata/54d496788776e49e6b00052f) | 4 kyu | [Python](Python/4%20kyu/Sum%20by%20Factors.py) |
