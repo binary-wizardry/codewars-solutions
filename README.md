@@ -1,6 +1,9 @@
+![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-93-green)&nbsp;
+
 <p align="center">
     <a href="https://www.codewars.com/">
-        <img height=100 src="https://www.qualified.io/shared/images/codewars-black-large-24a9d355.png">
+        <img height=50 src="https://www.qualified.io/shared/images/codewars-black-large-24a9d355.png">
     </a>
 </p>
 
@@ -10,12 +13,14 @@ After solving a task, compare your answer with other users and learn from them o
 
 ## Problems
 
-Problems solved count : **93**
+Here are my solutions codewars problems. The solutions have very few comments, because I write them for myself. But in most cases I try to leave a note about the idea of ​​solution or important edge cases.
+<br>
+PS: for the difficulty, 8 kyu is the minimum and 1 kyu is the maximum.
 
 My profile: https://www.codewars.com/users/binary.wizardry
 
-| Problem | Difficulty | Solution |
-|---------|:----------:|:------:|
+| Problem | Difficulty | Solution Link|
+|---------|:----------:|:------------:|
 | [The Millionth Fibonacci Kata](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26) | 3 kyu | [Python](Python/3%20kyu/The%20Millionth%20Fibonacci%20Kata.py) |
 | [Make a spiral](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6) | 3 kyu | [Python](Python/3%20kyu/Make%20a%20spiral.py) |
 | [Sudoku Solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7) | 3 kyu | [Python](Python/3%20kyu/Sudoku%20Solver.py) |
@@ -109,5 +114,3 @@ My profile: https://www.codewars.com/users/binary.wizardry
 | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) | 8 kyu | [Python](Python/8%20kyu/Return%20Negative.py) |
 | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | 8 kyu | [Python](Python/8%20kyu/Multiply.py) |
 | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) | 8 kyu | [Python](Python/8%20kyu/Even%20or%20Odd.py) |
-
-PS: for the difficulty, 8 kyu is the minimum and 1 kyu is the maximum.
